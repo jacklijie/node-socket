@@ -2,7 +2,7 @@
   "name": "jack",
   "version": "0.0.0",
   "authors": [
-    "jacklijie <510309805@qq.com>"
+    "jackli"
   ],
   "description": "",
   "main": "",
@@ -19,6 +19,5 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "~2.2.3"
   }
 }
